@@ -1,5 +1,6 @@
 Music Room
 
+
 Music Room is a web application that allows users to create a virtual room where they can listen to music together using the Spotify API. It provides a collaborative music experience where users can vote to skip songs, and when the votes to skip limit is reached, the current song is automatically skipped.
 
 Technologies Used-
